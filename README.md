@@ -47,3 +47,6 @@ Deep learning course and implementation of its academic exercises (Tarbiat Modar
 ---
 ## Extra1  
 * Recontructed Image with SVD  
+* Conditional GAN With Weighted Matrix
+  ![image](https://github.com/MohammadAliSO/DeepLearning-practices/assets/48887675/3cf616bf-a4ae-420b-a22e-b2c98badea45)
+   
